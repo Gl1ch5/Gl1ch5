@@ -1,50 +1,49 @@
-# GL1CH
+# GL1CH (grzxk)
 
-### Independent Developer · AI-Assisted Engineering
+**Независимый разработчик · Программные продукты и инструменты**
 
-I design and build software products, developer tools, and modular systems.
+Разрабатываю приложения, проектирую модульные системы и экспериментирую с архитектурой программного обеспечения.
 
-My work focuses on AI agents, Android applications, Telegram clients,
-and experiments at the intersection of software and operating systems.
+Основные направления: Android, AI-инструменты, автоматизация, Telegram-клиенты и интеграция сложных программных компонентов.
 
-I use AI tools to accelerate implementation, while taking responsibility
-for architecture, integration, engineering decisions, and validation.
-
-## Selected Projects
+## Избранные проекты
 
 ### [Me-agent](https://github.com/Gl1ch5/Me-agent)
-An AI agent platform with multiple interfaces and tools for software development.
+Платформа AI-агентов и инструментов для разработки программного обеспечения.
 
 ### [TgYou](https://github.com/Gl1ch5/TgYou)
-An Android Telegram-based client with a modular customization system.
+Android-клиент на основе Telegram с системой модификаций и расширяемой архитектурой.
 
 ### [TgX](https://github.com/Gl1ch5/TgX)
-A cross-platform messaging client experiment.
+Экспериментальный кроссплатформенный клиент для общения.
 
 ### [AI Improver](https://github.com/Gl1ch5/-The-AI-Improver)
-An OpenAI-compatible proxy for improving and routing model requests.
+Инструмент для маршрутизации и обработки запросов к языковым моделям через OpenAI-совместимый API.
 
 ### [You Music](https://github.com/Gl1ch5/You-Music)
-An Android music player focused on customization and extensibility.
+Музыкальный плеер с настройкой интерфейса и расширяемыми возможностями.
 
 ### [Linux ARM](https://github.com/Gl1ch5/Linux-arm)
-An experiment in running Linux desktop environments on Android devices.
+Эксперименты с запуском Linux-сред на Android-устройствах.
 
-## Engineering
+## Технические интересы
 
-- Software architecture and modular design
-- AI-assisted development and model integration
-- Python, Kotlin, Java, JavaScript and TypeScript
-- Android applications and developer tooling
-- Open-source software
+- Архитектура программного обеспечения и модульный дизайн
+- Android и пользовательские приложения
+- Автоматизация и интеграция AI-моделей
+- Инструменты разработчика и системные эксперименты
+- Открытое программное обеспечение
 
-## Support
+## Прозрачность разработки
 
-My projects are developed in public.
-Support helps fund development, testing, and new releases.
+В отдельных проектах при разработке могут использоваться инструменты ИИ. Их роль и объём использования зависят от конкретного проекта. Особенности реализации, ограничения и результаты тестирования следует смотреть в документации соответствующего репозитория.
 
-**[Support my work on Boosty]((https://boosty.to/grzxk))**
+## Поддержать разработку
+
+Если мои проекты полезны вам, вы можете поддержать дальнейшую разработку на Boosty.
+
+**[Поддержать на Boosty](https://boosty.to/grzxk)**
 
 ---
 
-*Also known as grzxk.*
+GitHub: [Gl1ch5](https://github.com/Gl1ch5) · Также известен как **grzxk**.
